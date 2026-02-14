@@ -1,0 +1,7 @@
+{
+  "name": "LogiSmart Inventory AI",
+  "description": "A high-end logistics and inventory management system with AI-powered product image editing and real-time market search grounding.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
